@@ -4,7 +4,7 @@ this record will be store on the yaml/raw file and update hourly
 
 ## installing (on local machine)
  * install python version 3 up
- * execute: pip -r requirements.txt
+ * execute: pip install -r requirements.txt
  * set environment variable FLASK_APP=run.py
  * execute: flask run
 
